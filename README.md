@@ -92,6 +92,3 @@ pdf-to-excel/
 - Designed specifically for Porsche parts catalog PDF layouts. Other PDF formats may require adjustments to the parsing logic.
 - Processes one PDF at a time (no batch mode).
 
-## License
-
-This project is provided as-is. See [LICENSE](LICENSE) for details.
