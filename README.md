@@ -12,10 +12,11 @@ A desktop application that extracts structured parts table data from Porsche-sty
 - **Auto-Open** -- Optionally opens the generated Excel file after conversion
 - **Threaded Processing** -- UI stays responsive during conversion with real-time log output
 
-## Screenshot
-
-<!-- Add a screenshot of the application here -->
-<!-- ![App Screenshot](docs/screenshot.png) -->
+## Tested on
+992 Cup gen II 2026
+992 Cup gen I
+GT 4 Cayman 718 clubsport
+GT 4 Cayman 718 Clubsport RS
 
 ## Prerequisites
 
