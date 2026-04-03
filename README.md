@@ -13,10 +13,10 @@ A desktop application that extracts structured parts table data from Porsche-sty
 - **Threaded Processing** -- UI stays responsive during conversion with real-time log output
 
 ## Tested on
-992 Cup gen II 2026
-992 Cup gen I
-GT 4 Cayman 718 clubsport
-GT 4 Cayman 718 Clubsport RS
+- 992 Cup gen II 2026
+- 992 Cup gen I
+- GT 4 Cayman 718 clubsport
+- GT 4 Cayman 718 Clubsport RS
 
 ## Prerequisites
 
